@@ -1,5 +1,6 @@
 # Nadaljnja navodila
 
+42
 Odgovor na življenje, vesolje in sploh vse
 
 1. Sedaj imaš lokalno kopijo repozitorija.
